@@ -1,0 +1,19 @@
+.textoColumnas{
+    background-color: #f8f9fa;
+}
+
+a {
+    color: black;
+}
+
+.navbar {
+    background-color: #6c757d;
+}
+
+.navbar a {
+    color: #bdc1c4;
+}
+
+.navbar a:active, .navbar-brand {
+    color: white;
+}

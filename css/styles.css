@@ -1,19 +1,20 @@
 .textoColumnas{
     background-color: #f8f9fa;
+    text-align: justify;
 }
 
 a {
     color: black;
 }
 
-.navbar {
+nav {
     background-color: #6c757d;
 }
 
-.navbar a {
+.nav-link {
     color: #bdc1c4;
 }
 
-.navbar a:active, .navbar-brand {
+.nav-item a:active, .navbar-brand {
     color: white;
 }
